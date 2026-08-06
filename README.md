@@ -1,2 +1,2 @@
-# Varlıklarım-destek 
-Varlıklarım gizlilik, KVKK, kullanım koşulları ve destek sayfaları
+# Varliklarim-destek 
+Varliklarim gizlilik, KVKK, kullanım koşulları ve destek sayfaları
